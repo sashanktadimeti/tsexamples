@@ -9,3 +9,4 @@ class User{
 }
 const sashank=new User("sashanktadimeti4@gmail.com","sashank")
 sashank.city="vizag"
+//lavda ke pal
