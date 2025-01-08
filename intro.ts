@@ -46,3 +46,4 @@ type Admin={
 var a:User2|Admin={username:"sashank",id:201}
 let seatAllotment:"aisle"|"window"|"middle"
 //i hate commenting
+//i love u
